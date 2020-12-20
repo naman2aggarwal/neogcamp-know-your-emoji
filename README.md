@@ -1,2 +1,2 @@
 # neogcamp-know-your-emoji
-Created with CodeSandbox
+This is a simple react using which you can know the meaning of different emojis.
